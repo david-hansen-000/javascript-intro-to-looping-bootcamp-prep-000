@@ -5,7 +5,7 @@ function forLoop (a) {
     } else {
       a.push("I am "+i+" strange loops.");
     }
-    console.log(a[i]);
+    //console.log(a[i]);
   }
   return a;
 }
